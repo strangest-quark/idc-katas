@@ -1,6 +1,6 @@
 /*
-Input: 65
-Output: A
+Input: A
+Output: 65
 */
 export const charToAscii = (character) => {
     //IMPLEMENTATION
